@@ -380,11 +380,11 @@ font-weight: 500;
     width: 40px;
     height: 40px;
     cursor: pointer;
-    background: url(/images/menu.png) center;
+    background: url(images/menu.png) center;
     background-size: cover;
   }
   .menu-toggle.active {
-    background: url(/images/exit.jpg);
+    background: url(images/exit.jpg);
     background-size: cover;
     position: relative;
     width: 40px;
