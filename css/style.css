@@ -222,7 +222,7 @@ section {
 
 /* Start Testemonials*/
 .testemonials {
-  background: url(/images/bg2.jpg);
+  background: url(images/bg2.jpg);
 }
 .white .text-title,
 .white p {
@@ -269,7 +269,7 @@ section {
 }
 /*Start contact*/
 .contact {
-  background: url(/images/bg3.jpg);
+  background: url(images/bg3.jpg);
   background-size: cover;
 }
 .contact .input-form {
